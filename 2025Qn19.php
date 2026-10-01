@@ -11,7 +11,7 @@ cookies are mainly used to remember information about a user between different r
 2. Remembering users: Cookies can remember a user's login or other information.
 3. Session-related tasks: They can help identify a user's browser during a session.
 4. Tracking user activity: Websites can use cookies to track visits and user behavior.
-5. Storing small amounts of data: Cookies are suitable for storing small pieces of non-sensitive        information on the client side.
+5. Storing small amounts of data: Cookies are suitable for storing small pieces of non-sensitive information on the client side.
 */
 //setting a cookie
 // syntax:
